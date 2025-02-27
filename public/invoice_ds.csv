@@ -1,0 +1,64 @@
+image,inv_no,inv_date,cust_name,bill_address,total,tax,due_date
+1,NaN,13-08-2013,Bill Bily,"AABBC, 410 South Johnstone 74003",$3,653.60,$0.00,NaN
+2,101-01,NaN,John Smith,"1234 Main Street San Francisco, California 94133",1055.00,0,NaN
+3,00234,03/25/2014,John Smith,"2 Court Square 6th Floor Long Island City New York, NY 1120",$328.65,0,04/09/2014
+4,1234,29-12-2011,John Doe Residence,"12134 Any Street, Any Town, WA, 98000",886.4,9.5,NaN
+5,1,19/05/2014,Commonwealth Las Vegas,"525 E. Fremont St. Las Vegas, NV 89101",650,0,NaN
+6,19427,03-03-2016,OUHSC Department of Urology,"920 S. L. Young Blvd., WP3150 Oklahoma City, OK 73104",601.04,0,Due on Receipt
+7,NaN,NaN,NaN,"NaN",874.5,49.50,NaN
+8,123456,05-01-2014,NaN,"NaN",551.56,28.58,NaN
+9,1000,17-11-2006,ABC Company,"123 Big Forest Valley Ottawa, On Z12345 Canada",14622.04,1204.5,NaN
+10,000000,10/07/14,Client Name,"1 Client Address",$4520.00,520,NaN
+11,52148,01-02-2020,Dwyane Clark,"24 Dummy Street Area, Location, Lorem Ipsum, 5700x59x",415,0,NaN
+12,A246,02-15-18,114H,"123 Main Street Hamilton, OH 44416",356.4,11.40,NaN
+13,A246,03-15-18,Company Name,"456 Main Street Hamilton, OH 44416",359.27,21.77,04-15-18
+14,A246,03-15-18,Company Name,"123 Main Street Hamilton, OH 44416",103.80,3.80,04-15-18
+15,012479,02-02-2018,Sarah Smith,"NaN",2500.00,0.00,12-02-2018
+16,0000000000,NaN,ABC Construction,"NaN",655.00,0,NaN
+17,0002,19-05-2017,Thomas A. Anderson,"Room 101 Mega City",2600.00,0.00,NaN
+18,INV-0001,01-05-2010,NaN,"NaN",215,0,01-06-2010
+19,2241,28-07-2017,Client Name,"34 Customer Street, City, Country",$220.49,$10.50,03-08-2017
+20,101,08/01/2016,Kate L,"2317 Broadway, Redwood City, CA 94063",129.00,9.00,08/31/2016
+21,6,09-26-2016,Client name,"Client address",162,12,10-26-2016
+22,1234568,04-02-2012,Jason King,"4321 Cupertino, Amazing Drive, Greenwood City, CA 94037",0,0,NaN
+23,20278,20.02.2017,Bering Catering,"Bulevardi 15,00180 Helsinki",443.3,85.80,06.03.2017
+24,000383,05-12-2011,Your Company,"303 Washington Street Suite 153 New York, NY 10292",180.00,0.00,05-12-2011
+25,1234567890,17-09-2013,Jason Longo,"572 Fictitious Blvd. Chicago lll. 60106",210,0,NaN
+26,012345678,01-01-2012,CONSTANCE REALTY,"123 highway, New York, NY 12345",25000.00,500.00,NaN
+27,NaN,NaN,Martjin vd Broeck,"Visual & Interactive Design Eindhoven, The Netherlands",1100.00,185.00,NaN
+28,52148,01-02-2020,Dwyane Clark,"24 Dummy Street Area, Location, Lorem Ipsum, 570xx59x",220.00,0.00,NaN
+29,2148,01-02-2020,Dwayne Clark,"24 Dummy Street Area, Location, Lorem Ipsum, 570xx59x",220.00,0.00,NaN
+31,009,31-08-2013,Mr. John Galt,"Taggart Transcontinental, Inc.355 Madison AvenueSuite 4500New York, NY 10020",$11,812.50,0,Sep 30, 2013
+32,1,15-09-2014,Michael Scott Paper Company Inc.,"1725 Slough Avenue Scranton, Pennsylvania",0,0,NaN
+33,1027,23-01-2008,TI Test Client,"4384 Gregory Lane ROSWELL GA 30076 UNITED STATES",922.50,0.00,23-01-2008
+34,332,13-12-2012,Awesome Company, Inc.,"2388 West Blvd. Grand Rapids, Michigan 49501",2625.00,0.00,13-01-2013
+35,960851548,11-March-2019,Mercedes-Benz Research and Development India Pvt. Ltd.,"Whitefield Palms Plot No 9 & 10 EPIP Zone, Phase 1, Whitefield Road Bangalore - 560066 Karnataka India",416551.56,63541.76,NaN
+36,960903588,28-04-2019,Vauxhall Finance PLC,"Heol-y-Gamlas, Parc Nantgarw Treforest, Cardiff CF15 7QU, Glamorgan United Kingdom",5340.6,0,NaN
+37,960903589,28-04-2019,Vauxhall Finance PLC,"Heol-y-Gamlas, Parc Nantgarw, Treforest, Cardiff, CF15 7QU, Glamorgan, United Kingdom",3472.29,0,NaN
+38,980904546,29-04-2019,Vauxhall Finance PLC,"Heol-y-Gamlas, Parc Nantgarw Treforest, Cardiff CF15 7QU, Glamorgan United Kingdom",5328.00,0,NaN
+39,960804547,29-04-2019,Vauxhall Finance PLC,"Heol-y-Gamlas, Parc Nantgarw Treforest, Cardiff CF15 7QU, Glamorgan United Kingdom",2381.7,0,NaN
+40,980804567,29-04-2019,Vauxhall Finance PLC,"Heol-y-Gamlas, Parc Nantgarw Treforest, Cardiff CF15 7QU, Glamorgan United Kingdom",19565.30,0,NaN
+41,972655425,30-04-2019,Daimler AG,"Rechnungspröfung HPCK122 76742 Wörth Rhineland Palatinate DE812526315 Germany",368900.00,58900.00,NaN
+42,1,05-21-2011,NaN,"NaN",11333.78,467.32,NaN
+43,NaN,03-11-2012,James Smith,"Generic Corporation",794.55,0,NaN
+44,XXXXXX,DD Month YYYY,NaN,"Finances & Resources, Accounts Payable Specialist Schools and Academics Trust, 16th Floor, Millbank Tower",1,078.13,140.63,NaN
+45,1050,31-08-2016,Test Customer One,"123 First Street London UK",7752.00,952.00,NaN
+46,PDF46-WEB,31-01-2017,Simon Wiseman,"151 Narrows Parkway Birmingham West Midlands B11 United Kingdom",1455.00,132.27,NaN
+47,1719,23-01-2012,NaN,"NaN",531.00,0,31-03-2012
+49,001,29/01/2019,Panchika Randhawa,"27, Dlf City, Central Delhi, Delhi 40003",12980.76,734.76,26/04/2019
+50,001,29-01-2019,Panchika Randhawa,"27, Dlf City, Central Delhi, Delhi 40003",12980.76,734.76,26-04-2019
+51,001,29/01/2019,Panchika Randhawa,"27, Dlf City, Central Delhi, Delhi 40003",12800.76,734.76,26/04/2019
+52,001,29-01-2019,Panchika Randhawa,"27, Dlf City, Central Delhi, Delhi 40003",12,980.76,734.76,26-04-2019
+53,IN-001,29/01/2019,Panchika Randhawa,"27, Dlf City, Central Delhi, Delhi 40003",12,980.76,734.76,26/04/2019
+54,001,29-01-2019,Panchika Randhawa,"27, Dlf City, Central Delhi, Delhi 40003",12,980.76,734.76,26-04-2019
+55,IN-001,29/01/2019,Panchika Randhawa,"27, Dlf City, Central Delhi, Delhi 40003",12,980.76,734.76,26/04/2019
+56,001,29-01-2019,Panchika Randhawa,"27, Dlf City, Central Delhi, Delhi 40003",12,980.76,734.76,26-04-2019
+57,IN-001,29-01-2019,Panchika Randhawa,"27, Dlf City, Central Delhi, Delhi 40003",12980.76,734.76,26-04-2019
+58,12345,16-06-2025,Imani Olowe,"63 Ivy Road, Hawkville, GA, USA 31036",500,0,5 July 2025
+59,INVO-005,06-10-2021,John Smith,"111 Pine Street, Suite 1815 San Francisco, CA, 94111",425,0,NaN
+60,000001,05-08-2024,Ms. Mary D. Dunton,"1324 Hinkle Lake Road Needham 02192 Maine",$2,338.35,$111.35,05-08-2024
+61,001,11-02-2019,John Smith,"2 Court Square, New York, NY 12210",154.06,9.06,26-02-2019
+62,2050-001,01-03-2050,Lyda Fadel,"Miami, FL 33101",2231.25,106.25,15-03-2050
+63,0000,NaN,Henry Higgins,"1 Main St. Melbourn, Victoria 3035 Australia",500.00,0,NaN
+63,0000,NaN,Henry Higgins,"1 Main St. Melbourn, Victoria 3035 Australia",500.00,0,NaN
+64,1347,05-09-2017,Holden R. Caulfield,"1382 Summit Park Avenue Southfield, PA 48075",240.00,14.40,NaN

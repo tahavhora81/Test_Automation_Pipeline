@@ -1,0 +1,210 @@
+image,item_no,item_name,qty,unit_price
+1,0,ComposeDoc,1,$1,569.00
+1,1,MergeDoc,1,$2,299.00
+1,2,TransferDoc,1,$699.00
+2,0,Fonts,NaN,200
+2,1,Layout,2,45.00
+2,2,Imaging,1,45.00
+2,3,Photography,6,45.00
+2,4,Copywriting,8,45.00
+2,5,Proofing,2,45.00
+3,0,Front and rear brake cables & Throttle-cable,1,$56.00
+3,1,New set of pedal arms,1,$182.00
+3,2,Labor 3hrs,3,$25.00
+4,0,Labor,10,50.00
+4,1,Material,1,200.00
+4,2,Equipment Rental,1,109.50
+5,0,Commonwealth Performance 5/24,1,650
+6,0,Bob D. Smith, MD,2106,0.11
+6,1,Sally Brown, MD,2359,0.11
+6,2,Sue Allen, MD,221,0.11
+6,3,Tom Wilson, MD,697,0.11
+6,4,John Watson, MD,81,0.11
+7,0,Service 1,NaN,100
+7,1,Labor: 10 hours at $55 an hour,10,55
+7,2,Parts,NaN,175
+8,0,Service Fee,1,200
+8,1,Labor,5,75
+8,2,NaN,NaN,NaN
+8,3,NaN,NaN,NaN
+9,0,P1003,10,420
+9,1,P1000,12,199.99
+9,2,P1004,5,200
+9,3,P1002,3.2,255.52
+9,4,P1006,10,500
+10,0,Your item Name,1,$1000.00
+10,1,Your item Name,1,$1000.00
+10,2,Your item Name,1,$1000.00
+10,3,Your item Name,1,$1000.00
+11,0,Lorem Ipsum Dolor,5,50
+11,1,Pellentesque id neque ligula,1,10
+11,2,Interdum et malesuada fames,3,25
+11,3,Vivamus volutpat faucibus,2,40
+12,0,A111,10,10.00
+12,1,B222,5,20.00
+12,2,C333,10,5.00
+12,3,D444,5,10.00
+13,0,Documents 1-5,2.5,75
+13,1,Other,3,50
+14,0,Consultation; flat rate,1,$100.00
+15,0,Service #1,20,50.00
+15,1,Service #2,20,75.00
+16,0,Web Design - Fifteen page package deal,1,800.00
+16,1,Site Maintenance,1,55.00
+17,0,Headjack access,4,200.00
+17,1,Red pill,1,2000.00
+17,2,Kung Fu lessons,1,400.00
+18,0,Service One,1,100.00
+18,1,Service Two,3,40.00
+19,0,Product A,10.00,$20.00
+19,1,Item Fee,1.00,$9.99
+20,0,Mowing service for July, 2016.,1,$120.00
+21,0,Product or service,1,150
+22,0,Item 1A,1,$1,000.00
+22,1,Item 2A,2,$1,000.00
+22,2,Item 3A,3,$1,000.00
+22,3,Item 4A,4,$1,000.00
+22,4,Item 5A,5,$1,000.00
+22,5,Item 6A,6,$1,000.00
+23,0,18,50,4.5
+23,1,16,10,5.9
+23,2,15,5,6
+23,3,13,15,2.9
+24,0,One of a kind product description,1.00,$100.00
+24,1,One of a kind product another description,1.00,$100.00
+25,0,Lesson - Amanda Longo,1,30
+25,1,Lesson - Amanda Longo,1,30
+25,2,Lesson - Anglea Longo,1,30
+25,3,Lesson - Amanda Longo,1,30
+25,4,Lesson - Anglea Longo,1,30
+25,5,Lesson - Amanda Longo,1,30
+25,6,Lesson - Anglea Longo,1,30
+25,7,Lesson - Amanda Longo,1,30
+26,0,Website mockup,2,400.00
+26,1,Flyer design,1,1900.00
+26,2,Brand collateral,1,2000.00
+26,3,Powerpoint,1,200.00
+26,4,Proposal Kit,3,200.00
+26,5,Promo Banners,2,200.00
+26,6,Website mockup,4,200.00
+27,0,Homepage: Sketching, Wireframing and Coding,3.50,50.00
+27,1,About Us Page: Sketching, Wireframing and Coding,5.75,50.00
+27,2,Contact Page: Wireframing and Coding,3.50,50.00
+27,3,Contact Page: Contact Form,1.00,50.00
+27,4,Pricing Page: Sketching, Wireframing and Coding,4.75,50.00
+28,0,Lorem Ipsum Dolor,1,$50.00
+28,1,Pellentesque id neque ligula,3,$20.00
+28,2,Interdum et malesuada fames,2,$10.00
+28,3,Vivamus volutpat faucibus,1,$90.00
+29,0,Lorem Ipsum Dolor,1,50.00
+29,1,Pellentesque id neque ligula,3,20.00
+29,2,Interdum et malesuada fames,2,10.00
+29,3,Vivamus volutpat faucibus,1,90.00
+31,0,02 Schematic Design,NaN,NaN
+31,1,03 Design Development,NaN,NaN
+31,2,04 Construction Documents,NaN,NaN
+31,3,Basic Services,Nan,$350,000.00
+31,4,Basic Services,3.00,$125.00
+31,5,Basic Services,3.00,$120.00
+31,6,Basic Services,2.00,$1,25.00
+31,7,Basic Services,1.00,$250.00
+31,8,HR,6.25,$1562.00
+32,0,NaN,1,0
+33,0,CONC,4,$15.00
+33,1,FWOOD,1,$600.00
+33,2,LAB,7.5,$35.00
+34,0,Down Payment,1,2625.00
+34,1,Final payment,1,2625.00
+35,0,Nature of Service: Information technologies software services PANDURI ASHOK KUMAR,123.50,1430.00
+35,1,Nature of Service: Information technologies software services SHRITHA S,123.50,1430.00
+36,0,ALPHACREDIT (NL) (DEV),1,1320.6
+36,1,ALPHACREDIT (NL) - ADDITIONAL INTERFACE (DEV),1,1332
+36,2,ODS TO EXSTREAM INTERFACE (PART 1 - ONE INTERFACE) (DEV),1,1332
+36,3,SRSTO MANSUTTI (CR3127) - TASK0339926 (DAILYWELCOME) (DEV),1,1356
+37,0,WIPRO DEVELOPMENT OF FSL MFT INTERFACE,1,3472.29
+38,0,WIPRO - SRS INTERFACES R1-19,1,5328.00
+39,0,SR363 - WIPRO SHORTFALL,1,2381.70
+40,0,GIO MIGRATION # GSW & SPS,1,19565.30
+41,0,AQUA OPERATIONS2019 - APRIL 2019,1,310000.00
+41,1,NaN,NaN,NaN
+42,0,part no. 256,1000,7.36
+42,1,part no. 45896,NaN,7.21
+43,0,Consulting Services: October 3, 2012,8.00,12
+43,1,Consulting Services: October 4, 2012,6.50,12
+43,2,Consulting Services: October 5, 2012,5.25,12
+43,3,Consulting Services: October 10, 2012,9.75,20.00
+43,4,Consulting Services: October 11, 2012,5.00,12.51
+43,5,Accounting Services: October 10, 2012,1.00,80
+43,6,Accounting Services: October 11, 2012,2.00,80
+44,0,Trainer meeting: Millbank, 11 Sept 2009,1,375.00
+44,1,ITW: Venue, location, date,1.5,375.00
+44,2,ITD: Venue, location, date,1,375.00
+45,0,Consulting Service description 1,1,50.00
+45,1,Consulting Service description 2,2,50.00
+45,2,Consulting Service description 3,3,50.00
+45,3,Consulting Service description 4,4,50.00
+45,4,Consulting Service description 5,5,50.00
+45,5,Consulting Service description 6,6,50.00
+45,6,Consulting Service description 7,7,50.00
+45,7,Consulting Service description 8,8,50.00
+45,8,Consulting Service description 9,9,50.00
+45,9,Consulting Service description 10,10,50.00
+45,10,Consulting Service description 11,11,50.00
+45,11,Consulting Service description 12,12,50.00
+45,12,Consulting Service description 13,13,50.00
+45,13,Consulting Service description 14,14,50.00
+45,14,Consulting Service description 15,15,50.00
+45,15,Consulting Service description 16,16,50.00
+46,0,Laptop,1,1254.55
+46,1,Accessories,1,31.82
+47,0,Additional Section Registration(s),1,53.00
+47,1,Membership fee Institution, Band 1,1,463.00
+47,2,Handling Charges,1,15.00
+49,0,Frontend design restructure,1,9999
+49,1,Custom icon package,2,975
+49,2,Gandhi mouse pad,3,99
+50,0,Frontend design restructure,1,9999
+50,1,Custom icon package,2,975
+50,2,Gandhi mouse pad,3,99
+51,0,Frontend design restructure,1,9999.00
+51,1,Custom icon package,2,975.00
+51,2,Gandhi mouse pad,3,99.00
+52,0,Frontend design restructure,1,9,999.00
+52,1,Custom icon package,2,975.00
+52,2,Gandhi mouse pad,3,99.00
+53,0,Frontend design restructure,1,9,999.00
+53,1,Custom icon package,2,975.00
+53,2,Gandhi mouse pad,3,99.00
+54,0,Frontend design restructure,1,9,999.00
+54,1,Custom icon package,2,975.00
+54,2,Gandhi mouse pad,3,99.00
+55,0,Frontend design restructure,1,9,999.00
+55,1,Custom icon package,2,975.00
+55,2,Gandhi mouse pad,3,99.00
+56,0,Frontend design restructure,1,9,999.00
+56,1,Custom icon package,2,975.00
+56,2,Gandhi mouse pad,3,99.00
+57,0,Frontend design restructure,1,9999
+57,1,Custom icon package,2,975
+57,2,Gandhi mouse pad,3,99
+58,0,Eggshell Camisole Top,1,123
+58,1,Cuban Collar Shirt,1,127
+58,2,Floral Cotton Dress,1,123
+59,0,Sink,2,100
+59,1,Nest Smart Filter,1,150
+59,2,Labor Fee,1,50
+59,3,Service Fee,1,25
+60,0,Camera,1.00,$899.00
+60,1,Fitness Tracker,1.00,$129.00
+60,2,Laptop,1.00,$1,199.00
+61,0,Front and rear brake cables,1,100
+61,1,New set of pedal arms,2,15
+61,2,Labor 3hrs,3,5
+62,0,Website Development Services,1,1500.00
+62,1,Monthly Maintenance,3,200.00
+62,2,Domain Registration,1,25.00
+63,0,Consulting,1,500.00
+63,0,Consulting,1,500.00
+64,0,House Remodeling Consultation,1,55
+64,1,Paint Job - Premium Paint - 12 x 12 Room,3,50
+64,2,Plumbing Services - Change Gasket on Faucet,1,35

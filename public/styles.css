@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+
+input[type="submit"]{
+    background-color: lightblue;
+}
+
+.inp{
+    display:flex;
+    gap: 10px;
+}
+
+img{
+    width: 800px;
+}
+
+table{
+    border: solid blue;
+}
+
+td{
+    padding: 10px;
+}
+
+table, tr, td{
+    border: solid black 2px;
+    border-collapse: collapse;
+}
+
+#bill_address{
+    width: 200px;
+    height: 100px;
+}
+
+#heading_t{
+    text-align: center;
+}
+
+.pipe{
+    display: flex;
+    gap: 10px;
+}

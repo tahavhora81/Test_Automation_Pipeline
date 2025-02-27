@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <script>
+        //var data = <%- JSON.stringify(data) %>;
+    </script>
+    <h1>Review</h1>
+    <div class="pipe">
+        <div>
+            <img src="<%= img_prev_path %>" id="prev">
+        </div>
+
+        <div>
+            <form action="/enter" method="post">
+                <table>
+                
+                
+                    <tr id="heading_t">
+                        <td>Attribute</td>
+                        <td id="middle">Value</td>
+                        <td>Handwritten</td>
+                    </tr>
+                
+                
+                <tr>
+                <td>
+                <label for="inv_no">Invoice No: </label>
+                </td>
+                <td>
+                <input type = "text" id="inv_no" name="inv_no" value = "<%= data.inv_no %>">
+                </td>
+                <td>
+                <select name="hw_inv_no" id="hw_inv_no">
+                    <option value="N">No</option>
+                    <option value="Y">Yes</option>
+                </select>
+                </td>
+                </tr>
+                
+                <tr>
+                <td>
+                <label for="inv_date">Invoice Date: </label>
+                </td>
+                <td>
+                <input type = "text" id="inv_date" name= "inv_date" value = "<%= data.inv_date %>">
+                </td>
+                <td>
+                <select name="hw_inv_date" id="hw_inv_date">
+                    <option value="N">No</option>
+                    <option value="Y">Yes</option>
+                </select>
+                </td>
+                </tr>
+
+                
+                <tr>
+                <td>
+                <label for="cust_name">Customer Name: </label>
+                </td>
+                <td>
+                <input type = "text" id="cust_name" name="cust_name" value = "<%= data.cust_name %>">
+                </td>
+                <td>
+                <select name="hw_cust_name" id="hw_cust_name">
+                    <option value="N">No</option>
+                    <option value="Y">Yes</option>
+                </select>
+                </td>
+                </tr>
+
+                
+                <tr>
+                <td>
+                <label for="bill_address">Billing Address: </label>
+                </td>
+                <td>
+                <textarea id="bill_address" name="bill_address"><%= data.bill_address %></textarea>
+                </td>
+                <td>
+                <select name="hw_bill_address" id="hw_bill_address">
+                    <option value="N">No</option>
+                    <option value="Y">Yes</option>
+                </select>
+                </td>
+                </tr>
+                
+                <tr>
+                <td>
+                <label for="total">Total: </label>
+                </td>
+                <td>
+                <input type = "text" id="total" name="total" value = "<%= data.total %>">
+                </td>
+                <td>
+                <select name="hw_total" id="hw_total">
+                    <option value="N">No</option>
+                    <option value="Y">Yes</option>
+                </select>
+                </td>
+                </tr>
+
+                <tr>
+                <td>
+                <label for="tax">Tax: </label>
+                </td>
+                <td>
+                <input type = "text" id="tax" name="tax" value = "<%= data.tax %>">
+                </td>
+                <td>
+                <select name="hw_tax" id="hw_tax">
+                    <option value="N">No</option>
+                    <option value="Y">Yes</option>
+                </select>
+                </td>
+                </tr>
+
+                <tr>
+                <td>
+                <label for="due_date">Due Date: </label>
+                </td>
+                <td>
+                <input type = "text" id="due_date" name="due_date" value = "<%= data.due_date %>">
+                </td>
+                <td>
+                <select name="hw_due_date" id="hw_due_date">
+                    <option value="N">No</option>
+                    <option value="Y">Yes</option>
+                </select>
+                </td>
+                </tr>
+
+                
+            </table>
+            
+            <br>
+            <br>
+            <table>
+                <tr id="heading_t">
+                    <td>Item Name</td>
+                    <td>Quantity</td>
+                    <td>Unit price</td>
+                    <td>Handwritten</td>
+                </tr>
+                <% for(let i=0; i<data.items.length; i++){ %>
+                    <tr>
+                        <td>
+                        <input type="text" value = "<%= data.items[i].item_name %>" name= "item_name[]">
+                        </td>
+                        <td>
+                        <input type="text" value = "<%= data.items[i].qty %>" name= "item_qty[]">
+                        </td>
+                        <td>
+                        <input type="text" value = "<%= data.items[i].unit_price %>" name= "unit_price[]">
+                        </td>
+                        <td>
+                            
+                            <select name="hw_items[]" id="hw_items[]">
+                                <option value="N">No</option>
+                                <option value="Y">Yes</option>
+                            </select>
+                        </td>
+                    </tr>
+                <% } %>
+            </table>
+
+            <br>
+            <input type="submit" value ="Submit Data Entry" >
+            
+        </form>
+            
+        </div>
+    </div>
+</body>
+</html>
